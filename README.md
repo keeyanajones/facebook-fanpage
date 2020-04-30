@@ -1,2 +1,8 @@
 # facebook-fanpage
 Facebook Fan Page
+IN DEVELOPMENT
+VERSION 1.0.1
+TYPE : PAGE
+CREATED : Apr 15, 2019
+STATUS : LOCAL TEST
+GITHUB PROJECT : [ PAGE ]
